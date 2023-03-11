@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Learn C#",
+    "bookSize": 23,
+    "bookPrice": 50,
+    "bookDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod",
+    "bookDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod",
+    "bookImage": "../assets/image_pook/favicon.ico"
+  },
+  {
+    "id": 2,
+    "name": "Learn CSS",
+    "bookSize": 30,
+    "bookPrice": 51,
+    "bookDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod",
+    "bookDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod",
+    "bookImage": "../assets/image_pook/favicon.ico"
+  },
+  {
+    "id": 3,
+    "name": "Learn TypeScript",
+    "bookSize": 29,
+    "bookPrice": 52,
+    "bookDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod",
+    "bookDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod",
+    "bookImage": "../assets/image_pook/favicon.ico"
+  },
+  {
+    "id": 11,
+    "name": "Learn C++",
+    "bookSize": 23,
+    "bookPrice": 53,
+    "bookDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod",
+    "bookDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod",
+    "bookImage": "../assets/image_pook/favicon.ico"
+  },
+  {
+    "id": 123,
+    "name": "Learn Html",
+    "bookSize": 30,
+    "bookPrice": 55,
+    "bookDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod",
+    "bookDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod",
+    "bookImage": "../assets/image_pook/favicon.ico"
+  },
+  {
+    "id": 12,
+    "name": "Learn  JS",
+    "bookSize": 29,
+    "bookPrice": 56,
+    "bookDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod",
+    "bookDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quod",
+    "bookImage": "../assets/image_pook/favicon.ico"
+  }
+]
